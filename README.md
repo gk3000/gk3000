@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+  img{
+  margin: 0 auto;
+  display: block;
+  background-color: black;
+  }
+  </style>
