@@ -1,7 +1,7 @@
 
 [![Header](https://media4.giphy.com/media/RJSm1aKb2V6SGmI9bS/source.gif "Header")](https://barcelonacodeschool.com/)
 
-# My main account is on [GitLab](https://gitlab.com/gk3000), it has more functionality we need for the school 🤓
+# [Barcelona Code School](https://barcelonacodeschool.com) 🤓
 
 <!--
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
