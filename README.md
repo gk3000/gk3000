@@ -1,19 +1,13 @@
 
 [![Header](https://barcelonacodeschool.com/files/pics/coding_hands.gif "Header")](https://barcelonacodeschool.com/)
 
-<!--
-https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+# Do you want to have a custom description of your GitHub profile? 
 
-**gk3000/gk3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is how to do it:
 
-Here are some ideas to get you started:
+1. Create a new repo and give it a name exactly as your username is. For example, my username is `gk3000`, I would create a repo and name it `gk3000`. 
+2. In this repo creater a file `readme.md` 
+3. Using markdown add any content into this file. 
+4. That's it! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is a link to the markdown reference: https://www.markdownguide.org/basic-syntax/
