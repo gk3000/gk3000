@@ -15,3 +15,18 @@ Here is a link to the markdown reference: https://www.markdownguide.org/basic-sy
 Now when someone will go to you GitHub profile they will see the content of this file properly rendered with all sorts of content like images, links, emojis, etc...
 
 👻
+
+<a href="https://github.com/gk3000">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gk3000&show_icons=true&count_private=true&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gk3000&show_icons=true&count_private=true&theme=default">
+      <img height="200"  alt="Rustam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gk3000&show_icons=true&count_private=true">
+    </picture>
+  </a>
+  <a href="https://github.com/gk3000">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gk3000&layout=compact&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gk3000&layout=compact">
+      <img height="200"  alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk3000&layout=compact">
+    </picture>
+  </a>
